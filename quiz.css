@@ -1,0 +1,38 @@
+*{
+    background-color: bisque;
+}
+#h1{
+    text-align: center;
+    color: red;
+    font-size: 250%;
+    font-style: italic;
+}
+#h3{
+    text-align: center;
+    color: rgb(82, 67, 94);
+    font-size: 200%;
+    font-style: oblique;
+}
+#submit{
+    margin-bottom: auto;
+    background-color: rgb(213, 229, 229);
+    font-weight: bold;
+    border-radius: 30px;
+    border: 10%;
+    padding: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+#submit:hover{
+    background-color: darkgray ;
+}
+.question{
+font-weight: 550;
+font-style: oblique;
+}
+.answers{
+    margin-bottom: 30px;
+}
+.answers label{
+    display: block;
+}
